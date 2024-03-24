@@ -65,6 +65,7 @@ hist(random_numbers3)
 #| fig.cap = "Fourth set of random numbers"
 hist(random_numbers4)
 ```
+<<<<<<< HEAD
 
 # Random numbers 5
 
